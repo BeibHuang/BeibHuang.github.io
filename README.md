@@ -1,17 +1,26 @@
 ## 练习用的私人站点
 
 通过此次课程的学习，我学会了如何利用github创建的域名
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+as Jim Morrison said:
+> this is the end, my beautiful friend.
 
 ### 个人介绍
 _this is italic_
 _大二在读，电脑小白（其实是小白痴）。markdown还比较简单，比html容易许多_
+在本地搭建wordpress你需要：
+- [ ] 下载xampp或者usbserver来搭建本地的php环境
+- [ ] 下载最新版的wordpress
+- [ ] 下载对应的模板，来丰富你的网站
+- [ ] 购买域名、虚拟主机，来实现在线访问
+##如果这些你都做到了，那么恭喜你。你将拥有自己的首个博客站点。当然用github pages也不错!
 
 ## this is my hobby 
--list
-1.drawing
-2.sequin 
-like this[sax](https://th.bing.com/th?id=OIP.TwnEFNGtehlVHdL9iwN03QHaHa&pid=Api&rs=1)
+First Header | Second Header
+------------ | -------------
+线性代数 | 中国古代史
+西方哲学史 | 形势政策课
+
+~~this~~
 
 ```markdown
 Syntax highlighted code block
@@ -30,13 +39,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+快来做个有趣的测试吧！:wink: [quiz](https://guides.github.com/features/mastering-markdown/).
 
-For more details see [quiz](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeibHuang/BeibHuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
