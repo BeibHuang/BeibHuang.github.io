@@ -1,12 +1,17 @@
-## 美丽的新世界
+## 练习用的私人站点
 
-通过此次课程的学习，我学会了如何利用github创建的域名，习近平chuangjianyigethe greatest thing that ever could be .should you stay ang have a preview.You can use the [me likey] https://cn.bing.com/search?q=%E8%90%A8%E5%85%8B%E6%96%AF%E9%A3%8E&PC=U316&FORM=CHROMNto  to maintain a按到 review 知识是应该被更新的，今天的学习笔记如此。那么如何在该网站下创建新网页呢，我正在学习。nd preview the content for your website in Markdown files.
-
+通过此次课程的学习，我学会了如何利用github创建的域名
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### introduction
+### 个人介绍
+_this is italic_
+_大二在读，电脑小白（其实是小白痴）。markdown还比较简单，比html容易许多_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## this is my hobby 
+-list
+1.drawing
+2.sequin 
+like this[sax](https://th.bing.com/th?id=OIP.TwnEFNGtehlVHdL9iwN03QHaHa&pid=Api&rs=1)
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +31,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [quiz](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
