@@ -1,4 +1,4 @@
-## Welcome to my first blog
+## 美丽的新世界
 
 I'm trying to learn Rmarkdown, but there is so many difficulties.You can use the [editor on GitHub](https://github.com/BeibHuang/BeibHuang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
