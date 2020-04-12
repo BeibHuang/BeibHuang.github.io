@@ -1,6 +1,6 @@
 ## 美丽的新世界
 
-I'm trying to learn Rmarkdown, but there is so many difficulties.You can use the [editor on GitHub](https://github.com/BeibHuang/BeibHuang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我正在讯恶如何风的季节萨克均承诺擦肩上的I'm trying to learn Rmarkdown, but there is so many difficulties.You can use the [editor on GitHub](https://github.com/BeibHuang/BeibHuang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
