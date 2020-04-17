@@ -9,7 +9,7 @@
 
 ## 个人介绍
 
-_大二在读，电脑小白（其实是小白痴）。markdown比较简单，比html容易许多_
+_scu大二在读。markdown比较简单，比html容易许多_
 ### 下面介绍怎么在本地搭建自己的wordpress站点 :smile:
 在本地搭建wordpress你需要：
 - [ ] 下载xampp或者usbserver来搭建本地的php环境
