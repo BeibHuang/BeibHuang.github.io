@@ -2,9 +2,9 @@
 
 通过此次课程的学习，我学会了如何利用github创建的域名，创建自己的个人网站
 
-就如吉姆所说:
 
-> this is the end, my beautiful friend.
+
+
 
 
 ## 个人介绍
